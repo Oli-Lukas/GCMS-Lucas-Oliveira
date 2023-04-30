@@ -12,7 +12,9 @@ public class HelloWorld
 		System.out.print("Digite a sua idade: ");
 		idade = Integer.parseInt(entrada.nextLine());
 		
-		if (idade >= 18)
+		if (idade >= 65)
+			System.out.println("Você já consegue se aposentar, ora pois!");
+		else if (idade >= 18)
 			System.out.println("Você é maior de idade.");
 		else
 			System.out.println("Você não é maior de idade. A-ha!!!");
