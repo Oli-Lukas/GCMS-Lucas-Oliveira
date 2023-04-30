@@ -17,6 +17,8 @@ public class HelloWorld
 		else
 			System.out.println("Você não é maior de idade. A-ha!!!");
 		
+		System.out.println("Aliás: Hello World!!!");
+		
 		entrada.close();
 	}
 }
