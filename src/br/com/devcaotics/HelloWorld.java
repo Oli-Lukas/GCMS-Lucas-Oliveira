@@ -21,6 +21,9 @@ public class HelloWorld
 		
 		System.out.println("Aliás: Hello World!!!");
 		
+		System.out.println("Esta é a branch 'Hotfix'.");
+		System.out.println("Lorem Ipsum!");
+		
 		entrada.close();
 	}
 }
