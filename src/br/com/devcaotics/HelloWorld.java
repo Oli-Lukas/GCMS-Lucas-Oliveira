@@ -21,6 +21,9 @@ public class HelloWorld
 		
 		System.out.println("Aliás: Hello World!!!");
 		
+		System.out.println("Fazendo alterações na branch 'main'.");
+		System.out.println("Autor: 'Lucas Gomes de Oliveira'");
+		
 		entrada.close();
 	}
 }
